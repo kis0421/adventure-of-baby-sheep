@@ -1,3 +1,12 @@
-/* 
-    write css here
-*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#sheep {
+    font-size: 12px;
+    display: inline-block;
+    position: absolute;
+    transition: left 2s, top 2s
+}
+/* transform: "scaleX(-1)", */
